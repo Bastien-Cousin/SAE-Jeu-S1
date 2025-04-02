@@ -1,0 +1,21 @@
+**Enigme de la porte 1 :**
+
+La porte semble fermée et demande de trouver le mot caché à l'aide de ces phrases :
+
+"Je suis souvent en bois ou en fer. On m'ouvre avec une clé. A l'intérieur de moi, des trésors ou des secrets...
+Mais attention, je peux être lourd et verrouillé."
+
+Avez-vous une idée? (pas de déterminant devant)
+
+Ooh !! La porte s'est ouverte ! Bravo !!!!
+
+La porte ne s'est pas ouverte, vous avez sûrement fait une erreur quelque part, réessayez.
+
+
+**Enigme de la porte 2 :**
+
+La porte semble fermée et demande de compléter une suite logique de chiffres romains...
+
+Sur la porte, on peut y voir inscrit : "II, III, V, VIII, …. " avec écrit juste en dessous "Réfléchissez comme Fibonacci !"
+
+Que faudrait il mettre à la place des "..." ?

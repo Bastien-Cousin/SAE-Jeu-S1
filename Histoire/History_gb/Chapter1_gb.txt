@@ -1,0 +1,43 @@
+Progression 0% | ~~~~~~~~~~ Chapter 1: The castle courtyard ~~~~~~~~~~
+
+5% | You've just arrived in the almost deserted castle courtyard and have a choice of several accessible areas:
+- The main gate to enter the castle (1)
+- Chat with one of the castle merchants (2)
+- Gain height on the walls to analyze the situation (3)
+
+
+**Answers (between () = not shown.) :**
+
+(main entrance)
+5% | It's not a good idea, as there are guards watching the gate: you've no chance of getting in.
+(merchant)
+5% | The merchant is in a good mood today, offering you a choice of weapons: choose between the bow (1) or the iron sword (2) : 
+You chose the bow.
+You chose the iron sword.
+Invalid choice. Return to the beginning of the chapter.
+But come on, the merchant will never offer anything to the king's jester, ahahahahah !
+You've already got a weapon, the merchant can't offer you another.
+(look around)
+10% | ...After taking your time, you see a small, remote wooden door. Would you like to take a closer look (1) or no (2) ?
+(no)
+5% | The door may be too dangerous indeed... 
+(yes)
+15% | Entering discreetly through this door, you come face to face with a guard who is all alone. You have two choices:
+- Run away (1)
+- Fight and kill him (2)
+
+
+*Answers (between () = not shown.) :*
+
+(run away)
+0% | Unfortunately, the door creaked as I closed it. The guard had time to warn the other guards in the yard.
+(fight and kill him)
+20% | The soldier had no weapon, so the fight was quick and painless for him... 
+
+
+You continue forward until you reach the door to the second floor... 
+[riddle]
+
+Random :
+
+Well, since you're the king's jester, I can give you this beautiful wooden sword !

@@ -1,0 +1,71 @@
+Progression 25% | ~~~~~~~~~~ Chapter 2 : The second floor ~~~~~~~~~~
+
+30% | You continue your intrusion into the second floor and discover 3 guards watching over the passages in the center of this large room. You have several choices :
+- Pretend nothing's happened and cross the room (1)
+- Attack the 3 guards (2)
+- Wait to surprise them and take advantage (3)
+
+
+**Answers (between () = not shown.) :**
+
+
+(Pretend nothing happened and cross the room)
+30% | Are you stupid ? You're in, they're watching to make sure you don't get through...
+You end up in prison, but you still have a small chance of getting out... 
+You can see that the guard watching the cells doesn't look too bad... What should you do?
+- Try to intimidate him into handing over the keys (1)
+- Attract him discreetly to neutralize him (2)
+	
+
+**Answers (between () = not shown.) :**
+	
+
+(Try to intimidate him into handing over the keys) (if the player is not in possession of the bow)
+25% | It doesn't work (you probably lack charisma...). The guard will warn his superiors.
+(Try to intimidate him into handing over the keys) (if the player is in possession of the bow).
+30% | You bend your bow towards the guard, call out to him and tell him to kindly drop the keys to the ground if he values his life. Frightened, he complies and promises not to tell anyone.
+(Lure him in discreetly to neutralize him)
+30% | Well done ! You retrieve the keys from his unconscious body.
+-> returns and has only two options for the floor
+
+You return to the entrance of the first-floor room :
+(Attack the 3 guards)
+0% | They're outnumbered, so it's no use...
+(Wait to surprise them and take advantage)
+40% | Good idea, by waiting in the shadow of a pillar you've managed to kill one very quickly ! But there are still two left, would you prefer :
+- Flee (1)
+- Fight (2)
+
+**Answers (between () = not shown.) :**
+
+(Flee)
+35% | I'm afraid you're not very good at fighting... The door to the second floor is closed, so you're stuck with them, and they capture you and send you to prison.
+(if the player has previously threatened the guard).
+30% | Hourly, the guard pretends nothing happened and lets you out again, following your previous threats.
+(if the player has previously neutralized the guard)
+30% | The guard seems to have woken up and forgotten all about what you did to him. With your keys still in your possession, you sneak out when his back is turned.
+
+(Fight)
+60% | With the effect of surprise, you easily gain the upper hand and win at two to one.
+ 
+60% | The soldiers were equipped with heavy armor. Would you like to steal one and equip it yourself?
+- yes (1)
+- no (2)
+
+**Answers (between () = not shown.) :**
+
+(yes)
+65% | So now you're equipped and ready to go to the top floor.
+(no)
+65% | Ouch, that's too bad... You're now on your way to the last floor.
+
+Once again, you're faced with a door that's impossible to open at the moment...
+[One more riddle for the last room].
+
+You've even found a healing potion in the inside pocket of the armor !
+
+________________________________
+|                               |
+|           YOU ARE             |
+|            DEAD !             |
+|_______________________________|

@@ -1,0 +1,161 @@
+Progression 70% | ~~~~~~~~~~ Chapter 3 : The final boss ~~~~~~~~~~
+
+70% | Here you are on the final floor. The atmosphere is much heavier than on the previous floors... The room is huge, and in the center you can see a large throne with its back to you.
+What do you want to do?
+- Call him to turn around (1)
+- Step forward cautiously (2)
+
+
+**Answers (between () = not shown.) :**
+
+(call him to turn around)
+0% | You shouted too loudly, guards came immediately, YOU'RE DEAD...
+(step forward cautiously)
+75% | As you step forward, you begin to see the silhouette of the man on your throne: much taller and older than you, he was waiting to fight you...
+
+The man rises and steps around his throne to face you. It's going to be quite a fight...
+
+Your weapon begins to glow strangely against him...
+
+The fight begins!
+
+____________________________________________________
+|						   |
+|	 You			   The Impostor    |
+|     10/10 PV			     10/10 PV  	   |
+|     10/10 PV			     9/10 PV  	   |
+|     10/10 PV			     8/10 PV  	   |
+|     10/10 PV			     7/10 PV  	   |
+|     10/10 PV			     6/10 PV  	   |
+|     10/10 PV			     5/10 PV  	   |
+|     10/10 PV			     4/10 PV  	   |
+|     10/10 PV			     3/10 PV  	   |
+|     10/10 PV			     2/10 PV  	   |
+|     10/10 PV			     1/10 PV  	   |
+|      9/10 PV			     10/10 PV  	   |
+|      9/10 PV			     9/10 PV  	   |
+|      9/10 PV			     8/10 PV  	   |
+|      9/10 PV			     7/10 PV  	   |
+|      9/10 PV			     6/10 PV  	   |
+|      9/10 PV			     5/10 PV  	   |
+|      9/10 PV			     4/10 PV  	   |
+|      9/10 PV			     3/10 PV  	   |
+|      9/10 PV			     2/10 PV  	   |
+|      9/10 PV			     1/10 PV  	   |
+|      8/10 PV			     10/10 PV  	   |
+|      8/10 PV			     9/10 PV  	   |
+|      8/10 PV			     8/10 PV  	   |
+|      8/10 PV			     7/10 PV  	   |
+|      8/10 PV			     6/10 PV  	   |
+|      8/10 PV			     5/10 PV  	   |
+|      8/10 PV			     4/10 PV  	   |
+|      8/10 PV			     3/10 PV  	   |
+|      8/10 PV			     2/10 PV  	   |
+|      8/10 PV			     1/10 PV  	   |
+|      7/10 PV			     10/10 PV  	   |
+|      7/10 PV			     9/10 PV  	   |
+|      7/10 PV			     8/10 PV  	   |
+|      7/10 PV			     7/10 PV  	   |
+|      7/10 PV			     6/10 PV  	   |
+|      7/10 PV			     5/10 PV  	   |
+|      7/10 PV			     4/10 PV  	   |
+|      7/10 PV			     3/10 PV  	   |
+|      7/10 PV			     2/10 PV  	   |
+|      7/10 PV			     1/10 PV  	   |
+|      6/10 PV			     10/10 PV  	   |
+|      6/10 PV			     9/10 PV  	   |
+|      6/10 PV			     8/10 PV  	   |
+|      6/10 PV			     7/10 PV  	   |
+|      6/10 PV			     6/10 PV  	   |
+|      6/10 PV			     5/10 PV  	   |
+|      6/10 PV			     4/10 PV  	   |
+|      6/10 PV			     3/10 PV  	   |
+|      6/10 PV			     2/10 PV  	   |
+|      6/10 PV			     1/10 PV  	   |
+|      5/10 PV			     10/10 PV  	   |
+|      5/10 PV			     9/10 PV  	   |
+|      5/10 PV			     8/10 PV  	   |
+|      5/10 PV			     7/10 PV  	   |
+|      5/10 PV			     6/10 PV  	   |
+|      5/10 PV			     5/10 PV  	   |
+|      5/10 PV			     4/10 PV  	   |
+|      5/10 PV			     3/10 PV  	   |
+|      5/10 PV			     2/10 PV  	   |
+|      5/10 PV			     1/10 PV  	   |
+|      4/10 PV			     10/10 PV  	   |
+|      4/10 PV			     9/10 PV  	   |
+|      4/10 PV			     8/10 PV  	   |
+|      4/10 PV			     7/10 PV  	   |
+|      4/10 PV			     6/10 PV  	   |
+|      4/10 PV			     5/10 PV  	   |
+|      4/10 PV			     4/10 PV  	   |
+|      4/10 PV			     3/10 PV  	   |
+|      4/10 PV			     2/10 PV  	   |
+|      4/10 PV			     1/10 PV  	   |
+|      3/10 PV			     10/10 PV  	   |
+|      3/10 PV			     9/10 PV  	   |
+|      3/10 PV			     8/10 PV  	   |
+|      3/10 PV			     7/10 PV  	   |
+|      3/10 PV			     6/10 PV  	   |
+|      3/10 PV			     5/10 PV  	   |
+|      3/10 PV			     4/10 PV  	   |
+|      3/10 PV			     3/10 PV  	   |
+|      3/10 PV			     2/10 PV  	   |
+|      3/10 PV			     1/10 PV  	   |
+|      2/10 PV			     10/10 PV  	   |
+|      2/10 PV			     9/10 PV  	   |
+|      2/10 PV			     8/10 PV  	   |
+|      2/10 PV			     7/10 PV  	   |
+|      2/10 PV			     6/10 PV  	   |
+|      2/10 PV			     5/10 PV  	   |
+|      2/10 PV			     4/10 PV  	   |
+|      2/10 PV			     3/10 PV  	   |
+|      2/10 PV			     2/10 PV  	   |
+|      2/10 PV			     1/10 PV  	   |
+|      1/10 PV			     10/10 PV  	   |
+|      1/10 PV			     9/10 PV  	   |
+|      1/10 PV			     8/10 PV  	   |
+|      1/10 PV			     7/10 PV  	   |
+|      1/10 PV			     6/10 PV  	   |
+|      1/10 PV			     5/10 PV  	   |
+|      1/10 PV			     4/10 PV  	   |
+|      1/10 PV			     3/10 PV  	   |
+|      1/10 PV			     2/10 PV  	   |
+|      1/10 PV			     1/10 PV  	   |
+|						   |
+|--------------------------------------------------|
+| What do you want to do ?			   |
+|						   |
+| - Attack (bare hands) (1)			   |
+| - Attack (bow) (1)			  	   |
+| - Attack (iron sword) (1)			   |
+| - Healing (2)			   		   |
+|__________________________________________________|
+
+This attack inflicts 1 point of damage.
+Critical strike ! This attack inflicts 2 points of damage.
+This attack inflicts 2 points of damage.
+Critical strike ! This attack inflicts 4 points of damage.
+The mysterious glow of your sword increases its damage. This attack inflicts 3 points of damage.
+The mysterious glow of your sword increases its damage. Critical strike ! This attack inflicts 6 points of damage.
+You use a healing potion. You recover 3 health points.
+Your armor has protected you from the enemy's attack.
+Your armor has protected you from the enemy's attack, but has just broken...
+
+The impostor attacks you with his bare hands. You take 1 point of damage.
+The impostor attacks you with his bare hands. Critical strike ! You take 2 points of damage.
+The angry impostor attacks you with his bare hands. You suffer 2 points of damage.
+The angry impostor attacks you with his bare hands. Critical strike ! You suffer 4 points of damage.
+The impostor strikes you with his sword. You suffer 2 points of damage.
+The impostor strikes you with his sword. Critical strike ! You take 4 points of damage.
+The angry impostor swings a sword at you. You take 4 points of damage.
+The angry impostor swings a sword at you. Critical strike ! You suffer 8 points of damage.
+The impostor heals himself with a healing potion. He recovers 3 hit points.
+The impostor gets angry ! His next attacks inflict more damage.
+
+You've been killed...
+You have defeated the impostor ! Your throne is yours again and the kingdom of Eldoria is saved !!
+
+Invalid choice. Your turn is over.
+
+The impostor reflects...

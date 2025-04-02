@@ -1,0 +1,71 @@
+Progression 25% | ~~~~~~~~~~ Chapitre 2 : Le premier étage ~~~~~~~~~~
+
+30% | Vous poursuivez votre intrusion dans le premier étage et découvrez 3 gardes en train de surveiller les passages au centre de cette grande pièce. Plusieurs choix s'offrent donc à vous :
+- Faire semblant de rien et traverser la pièce (1)
+- Attaquer les 3 gardes (2)
+- Attendre pour les surprendre et prendre l'avantage (3)
+
+
+**Réponses (entre () = pas afficher.) :**
+
+
+(Faire semblant de rien et traverser la pièce)
+30% | Vous êtes bête ? Vous êtes en infiltration, ils surveillent pour que vous ne passiez pas...
+Vous vous retrouvez en prison mais vous avez encore une petite chance de vous en sortir... 
+Vous voyez que le garde qui surveille les cellules n'a pas l'air très méchant… Que devez-vous faire ?
+- Essayer de l'intimider pour qu'il donne les clés (1)
+- L'attirer discrètement pour le neutraliser (2)
+	
+
+**Réponses (entre () = pas afficher.) :**
+
+
+(Essayer de l'intimider pour qu'il donne les clés)(dans le cas où le joueur n'est pas en possession de l'arc)
+25% | Ca ne fonctionne pas (vous manquez sûrement de charisme...). Le garde va prévenir ses supérieurs.
+(Essayer de l'intimider pour qu'il donne les clés)(dans le cas où le joueur est en possession de l'arc)
+30% | Vous bandez votre arc en direction du garde, l'appelez et vous lui dites de gentiment déposer les clés au sol s'il tient à la vie. Apeuré, il s'exécute et promet de ne rien dire à personne.
+(L'attirer discrètement pour le neutraliser)
+30% | Bien joué !! Vous récupérez les clés sur son corps inconscient.
+-> revient et n'a plus que deux solutions pour l'étage
+
+Vous revenez donc à l'entrée de la salle du premier étage :
+(Attaquer les 3 gardes)
+0% | Ils ont la supériorité numérique, ça ne sert à rien...
+(Attendre pour les surprendre et prendre l'avantage)
+40% | Bonne idée, en attendant dans l'ombre d'un pilier vous avez réussi à en tuer un très rapidement !! Mais il en reste deux, vous préférez :
+- Fuir (1)
+- Combattre (2)
+
+**Réponses (entre () = pas afficher.) :**
+
+(Fuir)
+35% | J'ai bien peur que vous ne soyez pas très doué pour le combat... La porte pour accéder au deuxième étage est fermée, vous êtes donc bloqué avec eux, ils vous capturent et vous envoient en prison.
+(dans le cas où le joueur a précédemment menacer le garde)
+30% | Heureusement, le garde fait semblant de rien et vous laisse sortir de nouveau, suite à vos précédentes menaces.
+(dans le cas où le joueur a précédemment neutraliser le garde)
+30% | Le garde semble s'être réveillé en ayant tout oublié de ce que vous lui avez fait. Les clés toujours en votre possession, vous sortez discrètement lorsqu'il a le dos tourné.
+
+(Combattre)
+60% | Avec l'effet de surprise, vous prenez facilement l'avantage et gagnez à 2 contre 1.
+ 
+60% | Les soldats étaient équipés de grosses armures, est ce que vous voulez en voler une et vous en équiper ?
+- oui (1)
+- non (2)
+
+**Réponses (entre () = pas afficher.) :**
+
+(oui)
+65% | Vous voici donc équipé, vous partez pour le dernier étage.
+(non)
+65% | Aïe, c'est dommage... Vous avancez maintenant vers le dernier étage.
+
+Vous voici de nouveau devant une porte pour l'instant impossible à ouvrir...
+[Encore une énigme pour la dernière salle]
+
+Vous venez même de trouver une potion de soin dans la poche intérieure de l'armure !! 
+
+________________________________
+|                               |
+|         VOUS   ÊTES           |
+|            MORT !             |
+|_______________________________|

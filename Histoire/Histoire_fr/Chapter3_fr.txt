@@ -1,0 +1,161 @@
+Progression 70% | ~~~~~~~~~~ Chapitre 3 : Le boss final ~~~~~~~~~~
+
+
+70% | Vous voici donc au dernier étage. L'atmosphère est bien plus pesante que dans les étages précédents... La pièce est immense et au centre vous pouvez apercevoir un grand trône dos à vous.
+Que voulez vous faire ?
+- Appeler l'homme assis sur le trône pour qu'il se retourne (1)
+- Vous avancer prudemment (2)
+
+**Réponses (entre () = pas afficher.) :**
+
+(l'appeler pour qu'il se retourne)
+0% | Vous avez crié trop fort, des gardes ont rappliqué immédiatement.
+(vous avancer prudemment)
+75% | En vous avançant, vous commencez à apercevoir la silhouette de l'homme sur votre trône : bien plus grand et plus vieux que vous, il vous attendait pour se battre...
+
+L'homme se lève et contourne son trône pour se mettre face à vous. Le combat risque d'être mouvementé...
+
+Votre arme commence à briller bizarrement face à lui, étrange...
+
+Début du combat !
+
+____________________________________________________
+|						   |
+|	Vous			   L'imposteur     |
+|     10/10 PV			     10/10 PV  	   |
+|     10/10 PV			     9/10 PV  	   |
+|     10/10 PV			     8/10 PV  	   |
+|     10/10 PV			     7/10 PV  	   |
+|     10/10 PV			     6/10 PV  	   |
+|     10/10 PV			     5/10 PV  	   |
+|     10/10 PV			     4/10 PV  	   |
+|     10/10 PV			     3/10 PV  	   |
+|     10/10 PV			     2/10 PV  	   |
+|     10/10 PV			     1/10 PV  	   |
+|      9/10 PV			     10/10 PV  	   |
+|      9/10 PV			     9/10 PV  	   |
+|      9/10 PV			     8/10 PV  	   |
+|      9/10 PV			     7/10 PV  	   |
+|      9/10 PV			     6/10 PV  	   |
+|      9/10 PV			     5/10 PV  	   |
+|      9/10 PV			     4/10 PV  	   |
+|      9/10 PV			     3/10 PV  	   |
+|      9/10 PV			     2/10 PV  	   |
+|      9/10 PV			     1/10 PV  	   |
+|      8/10 PV			     10/10 PV  	   |
+|      8/10 PV			     9/10 PV  	   |
+|      8/10 PV			     8/10 PV  	   |
+|      8/10 PV			     7/10 PV  	   |
+|      8/10 PV			     6/10 PV  	   |
+|      8/10 PV			     5/10 PV  	   |
+|      8/10 PV			     4/10 PV  	   |
+|      8/10 PV			     3/10 PV  	   |
+|      8/10 PV			     2/10 PV  	   |
+|      8/10 PV			     1/10 PV  	   |
+|      7/10 PV			     10/10 PV  	   |
+|      7/10 PV			     9/10 PV  	   |
+|      7/10 PV			     8/10 PV  	   |
+|      7/10 PV			     7/10 PV  	   |
+|      7/10 PV			     6/10 PV  	   |
+|      7/10 PV			     5/10 PV  	   |
+|      7/10 PV			     4/10 PV  	   |
+|      7/10 PV			     3/10 PV  	   |
+|      7/10 PV			     2/10 PV  	   |
+|      7/10 PV			     1/10 PV  	   |
+|      6/10 PV			     10/10 PV  	   |
+|      6/10 PV			     9/10 PV  	   |
+|      6/10 PV			     8/10 PV  	   |
+|      6/10 PV			     7/10 PV  	   |
+|      6/10 PV			     6/10 PV  	   |
+|      6/10 PV			     5/10 PV  	   |
+|      6/10 PV			     4/10 PV  	   |
+|      6/10 PV			     3/10 PV  	   |
+|      6/10 PV			     2/10 PV  	   |
+|      6/10 PV			     1/10 PV  	   |
+|      5/10 PV			     10/10 PV  	   |
+|      5/10 PV			     9/10 PV  	   |
+|      5/10 PV			     8/10 PV  	   |
+|      5/10 PV			     7/10 PV  	   |
+|      5/10 PV			     6/10 PV  	   |
+|      5/10 PV			     5/10 PV  	   |
+|      5/10 PV			     4/10 PV  	   |
+|      5/10 PV			     3/10 PV  	   |
+|      5/10 PV			     2/10 PV  	   |
+|      5/10 PV			     1/10 PV  	   |
+|      4/10 PV			     10/10 PV  	   |
+|      4/10 PV			     9/10 PV  	   |
+|      4/10 PV			     8/10 PV  	   |
+|      4/10 PV			     7/10 PV  	   |
+|      4/10 PV			     6/10 PV  	   |
+|      4/10 PV			     5/10 PV  	   |
+|      4/10 PV			     4/10 PV  	   |
+|      4/10 PV			     3/10 PV  	   |
+|      4/10 PV			     2/10 PV  	   |
+|      4/10 PV			     1/10 PV  	   |
+|      3/10 PV			     10/10 PV  	   |
+|      3/10 PV			     9/10 PV  	   |
+|      3/10 PV			     8/10 PV  	   |
+|      3/10 PV			     7/10 PV  	   |
+|      3/10 PV			     6/10 PV  	   |
+|      3/10 PV			     5/10 PV  	   |
+|      3/10 PV			     4/10 PV  	   |
+|      3/10 PV			     3/10 PV  	   |
+|      3/10 PV			     2/10 PV  	   |
+|      3/10 PV			     1/10 PV  	   |
+|      2/10 PV			     10/10 PV  	   |
+|      2/10 PV			     9/10 PV  	   |
+|      2/10 PV			     8/10 PV  	   |
+|      2/10 PV			     7/10 PV  	   |
+|      2/10 PV			     6/10 PV  	   |
+|      2/10 PV			     5/10 PV  	   |
+|      2/10 PV			     4/10 PV  	   |
+|      2/10 PV			     3/10 PV  	   |
+|      2/10 PV			     2/10 PV  	   |
+|      2/10 PV			     1/10 PV  	   |
+|      1/10 PV			     10/10 PV  	   |
+|      1/10 PV			     9/10 PV  	   |
+|      1/10 PV			     8/10 PV  	   |
+|      1/10 PV			     7/10 PV  	   |
+|      1/10 PV			     6/10 PV  	   |
+|      1/10 PV			     5/10 PV  	   |
+|      1/10 PV			     4/10 PV  	   |
+|      1/10 PV			     3/10 PV  	   |
+|      1/10 PV			     2/10 PV  	   |
+|      1/10 PV			     1/10 PV  	   |
+|						   |
+|--------------------------------------------------|
+| Que voulez-vous faire ?			   |
+|						   |
+| - Attaquer (mains nues) (1)			   |
+| - Attaquer (arc) (1)			  	   |
+| - Attaquer (épée en fer) (1)			   |
+| - Se soigner (2)			   	   |
+|__________________________________________________|
+
+Cette attaque inflige 1 point de dégâts.
+Coup critique ! Cette attaque inflige 2 points de dégâts.
+Cette attaque inflige 2 points de dégâts.
+Coup critique ! Cette attaque inflige 4 points de dégâts.
+La mystérieuse lueur de votre épée augmente les dégâts de celle-ci. Cette attaque inflige 3 points de dégâts.
+La mystérieuse lueur de votre épée augmente les dégâts de celle-ci. Coup critique ! Cette attaque inflige 6 points de dégâts.
+Vous utilisez une potion de soin. Vous récupérez 3 points de vie.
+Votre armure vous a protégé de l'attaque de l'ennemi.
+Votre armure vous a protégé de l'attaque de l'ennemi, mais vient de se briser...
+
+L'imposteur vous attaque à mains nues. Vous subissez 1 point de dégâts.
+L'imposteur vous attaque à mains nues. Coup critique ! Vous subissez 2 points de dégâts.
+L'imposteur en colère vous attaque à mains nues. Vous subissez 2 points de dégâts.
+L'imposteur en colère vous attaque à mains nues. Coup critique ! Vous subissez 4 points de dégâts.
+L'imposteur vous met un coup d'épée. Vous subissez 2 points de dégâts.
+L'imposteur vous met un coup d'épée. Coup critique ! Vous subissez 4 points de dégâts.
+L'imposteur en colère vous met un coup d'épée. Vous subissez 4 points de dégâts.
+L'imposteur en colère vous met un coup d'épée. Coup critique ! Vous subissez 8 points de dégâts.
+L'imposteur se soigne avec une potion de soin. Il récupère 3 points de vie.
+L'imposteur se met en colère ! Ses prochaines attaques infligeront plus de dégâts.
+
+Vous avez été tué...
+Vous avez vaincu l'imposteur ! Votre trône vous appartient de nouveau et le royaume d'Eldoria est sauvé !!
+
+Choix invalide. Votre tour est passé.
+
+L'imposteur réfléchit...

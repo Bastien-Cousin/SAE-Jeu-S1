@@ -1,0 +1,8 @@
+Quel est votre nom en jeu ? (32 caractères maximum)
+
+Bonjour et bienvenue dans la simulation de A la reconquête d'Eldoria !
+Quel personnage voulez vous incarner : roi ou reine ?
+
+Choix invalide. Par conséquent, vous serez le bouffon du roi pendant toute cette partie et n'aurez aucune crédibilité.
+
+Le vent souffle sur les terres désolées d'Eldoria, où se dresse le château abandonné. Vous êtes face à ses portes, seul(e) à pouvoir redonner vie à ce royaume plongé dans l'ombre. Chaque choix aura ses conséquences. Le destin du royaume est entre vos mains.

@@ -1,0 +1,5 @@
+Choisir la langue (fr) / Select language (gb) :
+
+Vous avez choisi le Français.
+You have selected English.
+Choix invalide. La langue n'est pas disponible

@@ -1,0 +1,8 @@
+What's your in-game name ? (32 characters maximum)
+
+Hello and welcome to the simulation of Reclaiming Eldoria !
+Which character would you like to play : King or Queen ?
+
+Invalid choice. As a result, you'll be the King's jester for the whole game, and will have no credibility.
+
+The wind blows across the desolate lands of Eldoria, where the abandoned castle stands. You're standing at its gates, the only one who can bring this shadowy kingdom back to life. Every choice you make will have consequences. The fate of the kingdom is in your hands.

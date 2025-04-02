@@ -1,0 +1,43 @@
+Progression 0% | ~~~~~~~~~~ Chapitre 1 : La cour du château ~~~~~~~~~~
+
+5% | Vous venez d'arriver dans la cour du château quasiment déserte et vous avez le choix entre plusieurs endroits accessibles :
+- La porte principale pour entrer dans le château (1)
+- Discuter avec l'un des marchands du château (2)
+- Prendre de la hauteur sur les murailles pour analyser la situation (3)
+
+
+**Réponses (entre () = pas afficher.) :**
+
+(entrée principale)
+5% | Ce n'est pas une bonne idée, car des gardes surveillent la porte : vous n'avez aucune chance de rentrer.
+(marchand)
+5% | Le marchand est de bonne humeur aujourd'hui, il vous propose de choisir entre plusieurs armes qu'il vous offre : choisissez entre l'arc (1) ou l'épée en fer (2) : 
+Vous avez choisi l'arc.
+Vous avez choisi l'épée en fer.
+Choix invalide. Retour au début du chapitre.
+Mais voyons, jamais le marchand n'offrira quoi que ce soit au bouffon du roi, ahahahahah !
+Vous avez déjà une arme, le marchand ne peut pas vous en offrir une autre.
+(observer les lieux)
+10% | ...Après avoir pris votre temps, vous apercevez une petite porte en bois reculée. Voulez-vous aller voir de plus près (1) ou non (2) ?
+(non)
+5% | La porte est peut-être trop dangereuse effectivement...
+(oui)
+15% | En rentrant discrètement par cette porte, vous tombez nez à nez avec un garde qui est tout seul, deux choix s'offrent à vous :
+- Vous enfuir (1)
+- Vous battre et le tuer (2)
+
+
+**Réponses (entre () = pas afficher.) :**
+
+(vous enfuir)
+0% | Malheureusement, la porte a grincé en la refermant. Le garde a eu le temps de prévenir les autres gardes dans la cour.
+(vous battre et le tuer)
+20% | Le soldat n'avait pas d'arme, le combat fut rapide et sans douleur pour lui...
+
+
+Vous continuez à avancer jusqu'à arriver devant la porte du premier étage... 
+[énigme]
+
+Aléatoire :
+
+Bon comme tu es le bouffon du roi, je peux te donner cette belle épée en bois !
